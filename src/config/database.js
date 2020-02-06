@@ -3,7 +3,7 @@ module.exports = {
   host: 'localhost',
   username: 'postgres',
   password: 'docker',
-  database: 'gobarber',
+  database: 'fastfeet',
   define: {
     timestamps: true,
     underscored: true, // para usar padrão underscore para nome de tabelas e colunas
